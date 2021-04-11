@@ -20,10 +20,10 @@ function preload(){
     thunder3 = loadImage("3.png");
     thunder4 = loadImage("4.png");
 
-    batAnimation = loadAnimation("bat1.png","bat2.png","bat3.png",
-                        "bat4.png","bat5.png","bat6.png",
-                        "bat7.png","bat8.png","bat9.png",
-                        "bat10.png","bat11.png","bat12.png");
+    batAnimation = loadAnimation("bat/bat1.png","bat/bat2.png","bat/bat3.png",
+                        "bat/bat4.png","bat/bat5.png","bat/bat6.png",
+                        "bat/bat7.png","bat/bat8.png","bat/bat9.png",
+                        "bat/bat10.png","bat/bat11.png","bat/bat12.png");
    
 }
 
